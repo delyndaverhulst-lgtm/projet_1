@@ -1,0 +1,292 @@
+{
+    "anims": [
+        {
+            "key": "boy_walk_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_down1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_down2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_down3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_down4"
+                }
+            ]
+        },
+        {
+            "key": "boy_walk_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_up1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_up2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_up3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_up4"
+                }
+            ]
+        },
+        {
+            "key": "boy_walk_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_left1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_left2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_left3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_left4"
+                }
+            ]
+        },
+        {
+            "key": "boy_walk_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_right4"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_right1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_right2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_walk_right3"
+                }
+            ]
+        },
+        {
+            "key": "boy_idle_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_left1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_left2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_left3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_left4"
+                }
+            ]
+        },
+        {
+            "key": "boy_idle_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_down1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_down2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_down3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_down4"
+                }
+            ]
+        },
+        {
+            "key": "boy_idle_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_up1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_up2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_up3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_up4"
+                }
+            ]
+        },
+        {
+            "key": "boy_idle_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_right1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_right2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_right3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_idle_right4"
+                }
+            ]
+        },
+        {
+            "key": "boy_attack_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_up1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_up2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_up3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_up4"
+                }
+            ]
+        },
+        {
+            "key": "boy_attack_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_right1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_right2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_right3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_right4"
+                }
+            ]
+        },
+        {
+            "key": "boy_attack_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_left1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_left2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_left3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_left4"
+                }
+            ]
+        },
+        {
+            "key": "boy_attack_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_down1"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_down2"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_down3"
+                },
+                {
+                    "key": "boy",
+                    "frame": "boy_attack_down4"
+                }
+            ]
+        }
+    ]
+}
